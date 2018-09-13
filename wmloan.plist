@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://smoneybag.oss-cn-shenzhen.aliyuncs.com/iOS/loan_resigned_1.0.5.ipa?Expires=1536830252&OSSAccessKeyId=TMP.AQGqBt76wmEKKSUcYqxkV44kyMQ52_sO1Hntj1KmwxZ-3rTX9p8BcrJ-xbsfMC4CFQCtoCYJ5WjZ3szpY1jVYkylZ84QBgIVAL9eVi25w7PM893mFMOa8rxmljAU&Signature=mvKHiqIOekokzPHbolp8EffikWw%3D</string>
+                    <string>https://smoneybag.oss-cn-shenzhen.aliyuncs.com/iOS/loan_resigned_1.0.5.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
